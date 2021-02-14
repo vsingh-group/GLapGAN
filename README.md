@@ -1,5 +1,6 @@
 # An implementation of GLapGAN: "Performing Group Difference Testing on Graph Structured Data from GANs: Analysis and Applications in Neuroimaging"
 This is an PyTorch implementation of GLapGAN as described in the paper [Performing Group Difference Testing on Graph Structured Data from GANs: Analysis and Applications in Neuroimaging]
+https://ieeexplore.ieee.org/document/9162541
 
 # Training Recipe 
 1. number of epochs: 500
